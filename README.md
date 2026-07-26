@@ -49,4 +49,5 @@ The dataset includes:
 - Tourism demand varies significantly by region and season
 - Interactive filtering enables detailed country-level behavioral analysis
 
-## Screenshot<img width="1465" height="835" alt="Tourism to the USA Snapshot" src="https://github.com/user-attachments/assets/347f9acc-ee67-4079-aeec-14495407a883" />
+## Screenshots<img width="1465" height="835" alt="Tourism to the USA Snapshot" src="https://github.com/user-attachments/assets/347f9acc-ee67-4079-aeec-14495407a883" />
+![Travel to the US Snapshot](https://github.com/680anthony/Tourism-to-the-USA-Dashboard/blob/main/Travel%20to%20the%20US%20Snapshot.png)
